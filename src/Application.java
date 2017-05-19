@@ -57,7 +57,9 @@ public class Application {
     
     
     public boolean isPowerOfTwo(int n) {
-        return Arrays.asList(2, 4, 8, 16, 32, 64).contains(n);
+        if (n % 2 == 1) return false;
+        else if (n == 2) return true;
+        return true && isPowerOfTwo(n / 2);
     }
     
     
