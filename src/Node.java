@@ -40,7 +40,7 @@ public class Node implements Comparable<Node> {
             do {
                 System.out.print(left.team + " vs " + right.team + " = ");
                 result = sc.nextLine();
-            } while (!result.matches("\\d-\\d"));
+            } while (!result.matches("\\d+-\\d+"));
             
             String[] scores = result.split("-");
             left.score = Integer.parseInt(scores[0]);
