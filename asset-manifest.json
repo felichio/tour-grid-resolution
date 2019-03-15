@@ -1,13 +1,13 @@
 {
-  "main.css": "/TourBTsimple/static/css/main.ea45709a.chunk.css",
-  "main.js": "/TourBTsimple/static/js/main.84098373.chunk.js",
-  "main.js.map": "/TourBTsimple/static/js/main.84098373.chunk.js.map",
-  "runtime~main.js": "/TourBTsimple/static/js/runtime~main.89d2428b.js",
-  "runtime~main.js.map": "/TourBTsimple/static/js/runtime~main.89d2428b.js.map",
-  "static/js/2.d9968469.chunk.js": "/TourBTsimple/static/js/2.d9968469.chunk.js",
-  "static/js/2.d9968469.chunk.js.map": "/TourBTsimple/static/js/2.d9968469.chunk.js.map",
-  "index.html": "/TourBTsimple/index.html",
-  "precache-manifest.32a3bbf959f3d17f5ae697b5ffeb097b.js": "/TourBTsimple/precache-manifest.32a3bbf959f3d17f5ae697b5ffeb097b.js",
-  "service-worker.js": "/TourBTsimple/service-worker.js",
-  "static/css/main.ea45709a.chunk.css.map": "/TourBTsimple/static/css/main.ea45709a.chunk.css.map"
+  "main.css": "/random/static/css/main.ea45709a.chunk.css",
+  "main.js": "/random/static/js/main.461b03a9.chunk.js",
+  "main.js.map": "/random/static/js/main.461b03a9.chunk.js.map",
+  "runtime~main.js": "/random/static/js/runtime~main.1109bbb6.js",
+  "runtime~main.js.map": "/random/static/js/runtime~main.1109bbb6.js.map",
+  "static/js/2.d9968469.chunk.js": "/random/static/js/2.d9968469.chunk.js",
+  "static/js/2.d9968469.chunk.js.map": "/random/static/js/2.d9968469.chunk.js.map",
+  "index.html": "/random/index.html",
+  "precache-manifest.f91293512af14283542b1221d179d606.js": "/random/precache-manifest.f91293512af14283542b1221d179d606.js",
+  "service-worker.js": "/random/service-worker.js",
+  "static/css/main.ea45709a.chunk.css.map": "/random/static/css/main.ea45709a.chunk.css.map"
 }
