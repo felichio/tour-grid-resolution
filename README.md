@@ -1,4 +1,3 @@
-<html>
-    <h1>TournamentBTsimple</h1>
-    <h2>Football tournament simulation</h2>
-</html>
+### Simple football tournament grid resolution
+
+#### + plus random testing of gh-pages
